@@ -1,0 +1,117 @@
+,EventTemplate,Occurrences
+0,connection from <*> at <*>,909
+1,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,372
+2,session closed for user <*>,123
+3,session opened for user <*> by (uid=<*>),122
+4,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,117
+5,check pass; user unknown,117
+6,ALERT exited abnormally with [<*>],43
+7,Kerberos authentication failed,23
+8,notify question section contains no SOA,16
+9,Authentication failed from <*>: Software caused connection abort,15
+10,Authentication failed from <*>: Permission denied in replay cache code,8
+11,restart.,7
+12,cupsd shutdown succeeded,6
+13,cupsd startup succeeded,6
+14,removing device node '<*>',4
+15,creating device node '<*>',4
+16,getpeername (ftpd): Transport endpoint is not connected,4
+17,BIOS-e820: <*> - <*> (reserved),3
+18,"ANONYMOUS FTP LOGIN FROM <*>, (anonymous)",2
+19,warning: can't get client address: Connection reset by peer,2
+20,BIOS-e820: <*> - <*> (usable),2
+21,User unknown timed out after <*> seconds at <*>,1
+22,Received SNMP packet(s) from <*>,1
+23,*** info [mice.c(<*>)]:,1
+24,imps2: Auto-detected intellimouse PS/<*>,1
+25,session opened for user <*> by LOGIN(uid=<*>),1
+26,<*> LOGIN ON tty2,1
+27,authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=,1
+28,Couldn't authenticate user,1
+29,syslogd startup succeeded,1
+30,"klogd <*>, log source = <*> started.",1
+31,Linux version <*> (bhcompile@bugs.build.redhat.com) (gcc version <*> (Red Hat Linux <*>)) <*>,1
+32,BIOS-provided physical RAM map:,1
+33,<*> HIGHMEM available.,1
+34,<*> LOWMEM available.,1
+35,zapping low mappings.,1
+36,klogd startup succeeded,1
+37,On node <*> totalpages: <*>,1
+38,"DMA zone: <*> pages, LIFO batch:<*>",1
+39,"Normal zone: <*> pages, LIFO batch:<*>",1
+40,irqbalance startup succeeded,1
+41,"HighMem zone: <*> pages, LIFO batch:<*>",1
+42,DMI <*> present.,1
+43,ACPI disabled because your bios is from <*> and too old,1
+44,You can enable it with acpi=force,1
+45,Built <*> zonelists,1
+46,Kernel command line: ro <*>=LABEL=/ rhgb quiet,1
+47,mapped 4G/4G trampoline to <*>.,1
+48,Initializing CPU#<*>,1
+49,"CPU <*> irqstacks, hard=<*> soft=<*>",1
+50,portmap startup succeeded,1
+51,PID hash table entries: <*> (order <*>: <*> bytes),1
+52,Detected <*> MHz processor.,1
+53,Version <*> Starting,1
+54,Using tsc for high-res timesource,1
+55,rpc.statd startup succeeded,1
+56,Console: colour VGA+ <*>,1
+57,"Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)",1
+58,Calibrating delay loop... <*> BogoMIPS,1
+59,Security Scaffold <*> initialized,1
+60,SELinux: Initializing.,1
+61,SELinux: Starting in permissive mode,1
+62,"There is already a security framework initialized, register_security failed.",1
+63,Failure registering capabilities with the kernel,1
+64,selinux_register_security: Registering secondary module capability,1
+65,Capability LSM initialized,1
+66,rpc.idmapd startup succeeded,1
+67,"Dentry cache hash table entries: <*> (order: <*>, <*> bytes)",1
+68,"Inode-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+69,"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+70,"CPU: L1 I cache: <*>, L1 D cache: <*>",1
+71,CPU: L2 cache: <*>,1
+72,Intel machine check architecture supported.,1
+73,Intel machine check reporting enabled on CPU#<*>.,1
+74,CPU: Intel Pentium III (Coppermine) stepping <*>,1
+75,Enabling fast FPU save and restore... done.,1
+76,Enabling unmasked SIMD FPU exception support... done.,1
+77,Checking 'hlt' instruction... OK.,1
+78,Initializing random number generator: succeeded,1
+79,POSIX conformance testing by UNIFIX,1
+80,NET: Registered protocol family <*>,1
+81,"PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>",1
+82,PCI: Using configuration type <*>,1
+83,mtrr: <*> (<*>),1
+84,ACPI: Subsystem revision <*>,1
+85,ACPI: Interpreter disabled.,1
+86,Linux Plug and Play Support <*> (c) Adam Belay,1
+87,Starting pcmcia: succeeded,1
+88,usbcore: registered new driver usbfs,1
+89,usbcore: registered new driver hub,1
+90,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+91,PCI: Invalid ACPI-PCI IRQ routing table,1
+92,PCI: Probing PCI hardware,1
+93,PCI: Probing PCI hardware (bus <*>),1
+94,Transparent bridge - <*>,1
+95,PCI: Using IRQ router PIIX/ICH [<*>/<*>] at <*>,1
+96,apm: BIOS version <*> Flags <*> (Driver version <*>),1
+97,audit: initializing netlink socket (disabled),1
+98,kernel.core_uses_pid = <*>,1
+99,HCI daemon ver <*> started,1
+100,hcid startup succeeded,1
+101,audit(<*>): initialized,1
+102,Setting network parameters: succeeded,1
+103,sdpd startup succeeded,1
+104,sdpd <*> started,1
+105,"Total HugeTLB memory allocated, <*>",1
+106,Bringing up loopback interface: succeeded,1
+107,VFS: Disk quotas <*>,1
+108,"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)",1
+109,SELinux: Registering netfilter hooks,1
+110,Initializing Cryptographic API,1
+111,pci_hotplug: PCI Hot Plug PCI Core version: <*>,1
+112,isapnp: Scanning for PnP cards...,1
+113,isapnp: No Plug & Play device found,1
+114,Real Time Clock Driver <*>,1
+115,Linux agpgart interface <*> (c) Dave Jones,1

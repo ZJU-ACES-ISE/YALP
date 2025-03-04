@@ -1,0 +1,47 @@
+,EventTemplate,Occurrences
+0,Linkerror event interval expired,394
+1,ambient=<*>,292
+2,normal,206
+3,warning,205
+4,running,162
+5,configured out,91
+6,Fan speeds ( <*> <*> <*> **** <*> <*> ),79
+7,boot (command <*>),67
+8,wait (command <*>),66
+9,not responding,60
+10,link errors remain current,56
+11,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0,45
+12,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0,44
+13,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>,36
+14,ClusterFileSystem: There is no server for ServerFileSystem domain <*>,32
+15,critical,20
+16,blocked,15
+17,Link error,13
+18,Link ok,13
+19,Component State Change: Component <*> is in the unavailable state (HWID=<*>),12
+20,ServerFileSystem: ServerFileSystem domain <*> is full,12
+21,Fan speeds ( <*> <*> <*> <*> <*> <*> ),11
+22,Command has completed successfully,10
+23,Link in reset,9
+24,Targeting domains:node-<*> and nodes:node-[<*>-<*>] child of command <*>,5
+25,psu failure\ ambient=<*>,5
+26,active,5
+27,Targeting domains:node-<*> nodes:node-<*>,4
+28,Link error on broadcast tree Interconnect-<*>,4
+29,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>,4
+30,halt (command <*>),3
+31,clusterAddMember (command <*>),2
+32,bootGenvmunix (command <*>),2
+33,Temperature (<*>) exceeds warning threshold,2
+34,NIFF: node node-<*> detected a failed network connection on network <*> via interface alt0,2
+35,NIFF: node node-<*> has detected an available network connection on network <*> via interface scip0,2
+36,risBoot (command <*>),1
+37,ServerFileSystem: An ServerFileSystem domain panic has occurred on <*>,1
+38,Command has been aborted,1
+39,power/control problem,1
+40,not-responding,1
+41,starting,1
+42,closing,1
+43,risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,1
+44,boot (command <*>) Error: HALT asserted\ cannot continue,1
+45,Failed subcommands <*>,1

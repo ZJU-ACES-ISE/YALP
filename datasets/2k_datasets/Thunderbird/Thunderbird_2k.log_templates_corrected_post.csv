@@ -1,0 +1,150 @@
+,EventTemplate,Occurrences
+0,data_thread() got not answer from any [<*>] datasource,819
+1,"synchronized to <*>, stratum <*>",568
+2,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************,62
+3,[ib_sm_sweep.c:<*>]: No topology change,62
+4,[ib_sm_sweep.c:<*>]: No configuration change required,62
+5,Warning: we failed to resolve data source name <*>,34
+6,session closed for user <*>,24
+7,session opened for user <*> by (uid=<*>),19
+8,Reading included configuration file: <*> [file=<*>] [line=<*>],17
+9,removing <*>,16
+10,DHCPDISCOVER from <*> via eth1: network A_net: no free leases,15
+11,(<*>) CMD (run-parts <*>),14
+12,RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step),11
+13,"PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>",11
+14,unable to qualify my own domain name (<*>) -- using short name,10
+15,"<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<*>, relay=<*>@localhost",10
+16,"<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]",10
+17,PCI Interrupt Routing Table [<*>],10
+18,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.,9
+19,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>,7
+20,Wait for ready failed before probe !,6
+21,DHCPDISCOVER from <*> via eth1,5
+22,DHCPOFFER on <*> to <*> via eth1,5
+23,(<*>) CMD (<*> <*>),5
+24,My unqualified host name (<*>) unknown; sleeping for retry,5
+25,"PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled.",5
+26,L2 cache: <*>,5
+27,Physical Processor ID: <*>,5
+28,"Trace cache: <*> uops, L1 D cache: <*>",5
+29,Registered protocol family <*>,5
+30,LAPIC (acpi_id[<*>] lapic_id[<*>] enabled),4
+31,LAPIC_NMI (acpi_id[<*>] high edge lint[<*>]),4
+32,Processor [<*>] (supports C1),4
+33,(C) <*>-<*> Netfilter core team,4
+34,Local disconnected: Connection closed.,3
+35,connection lost: 'Connection closed.',3
+36,DHCPACK on <*> to <*> via eth1,3
+37,DHCPREQUEST for <*> (<*>) from <*> via eth1,3
+38,IOAPIC (id[<*>] address[<*>] gsi_base[<*>]),3
+39,<*> used by override.,3
+40,mounted filesystem with ordered data mode.,3
+41,"apic_id <*>, version <*>, address <*>, GSI <*>",3
+42,PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>,2
+43,allocating divert_blk for <*>,2
+44,not allocating divert_blk for non-ethernet device <*>,2
+45,<*>: <*>: Intel(R) PRO/<*> Network Connection,2
+46,... autorun DONE.,2
+47,Autodetecting RAID arrays.,2
+48,autorun ...,2
+49,<*> (Release Date: <*> <*>),2
+50,connection from <*>,2
+51,"User <*>, coming from <*>, authenticated.",2
+52,Now running on <*>'s privileges.,2
+53,succeeded,2
+54,START: tftp pid=<*> from=<*>,1
+55,kernel time sync disabled <*>,1
+56,time reset +<*> s,1
+57,Received SNMP packet(s) from <*>,1
+58,kernel time sync enabled <*>,1
+59,CentOS-<*> (Kernel Module GPG key),1
+60,(supports <*>),1
+61,HPET id: <*> base: <*>,1
+62,INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl),1
+63,INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level),1
+64,Interpreter enabled,1
+65,Local APIC address <*>,1
+66,PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>),1
+67,PCI <*> Bridge [PCI0] (<*>),1
+68,Power Button (FF) [PWRF],1
+69,RSDP (<*> DELL ) @ <*>,1
+70,Subsystem revision <*>,1
+71,Using IOAPIC for interrupt routing,1
+72,Intel(R) Xeon(TM) CPU <*> stepping <*>,1
+73,colour VGA+ <*>,1
+74,<*> <*> <*> ak Exp $,1
+75,"routing cache hash table of <*> buckets, <*>",1
+76,PCI Hot Plug PCI Core version: <*>,1
+77,"<*>=LABEL=/ initrd=<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>",1
+78,Using software bounce buffering for IO (SWIOTLB),1
+79,Probing PCI hardware (bus <*>),1
+80,Transparent bridge - <*>,1
+81,Using ACPI for IRQ routing,1
+82,Using MMCONFIG at <*>,1
+83,Using configuration type <*>,1
+84,Compressed image found at block <*>,1
+85,Disabled at runtime.,1
+86,Initializing.,1
+87,Registering netfilter hooks,1
+88,Starting in permissive mode,1
+89,Unregistering netfilter hooks,1
+90,Hash tables configured (established <*> bind <*>),1
+91,Direct-Access ANSI SCSI revision: <*>,1
+92,Processor ANSI SCSI revision: <*>,1
+93,Disk quotas <*>,1
+94,Mounted <*> (ext2 filesystem).,1
+95,MegaRAID Model: LD <*> RAID1 <*> Rev: <*>,1
+96,PE/PV Model: <*> SCSI BP Rev: <*>,1
+97,initialized,1
+98,initializing netlink socket (disabled),1
+99,passed.,1
+100,<*>-ioctl (<*>) initialised: <*>,1
+101,<*>:USB HID core driver,1
+102,eth0: <*>: NIC Link is Up <*> Mbps Full Duplex,1
+103,no floppy controllers found,1
+104,RNG not detected,1
+105,Assuming <*> system bus speed for PIO modes; override with idebus=xx,1
+106,Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>,1
+107,Installing public key data,1
+108,"md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>",1
+109,fw version:[<*>] bios version:[<*>],1
+110,probe new device <*>: bus <*>:slot <*>:func <*>,1
+111,PS/<*> mouse device common for all mice,1
+112,<*> (<*>),1
+113,rpc.statd startup succeeded,1
+114,portmap startup succeeded,1
+115,Starting ts_fixup: succeeded,1
+116,Version <*> Starting,1
+117,LSI Logic MegaRAID driver,1
+118,scanning scsi channel <*> [Phy <*>] for non-raid devices,1
+119,scanning scsi channel <*> [virtual] for logical drives,1
+120,asking for cache data failed,1
+121,assuming drive cache: write through,1
+122,sda1 sda2 sda3 sda4,1
+123,Registering secondary module capability,1
+124,"<*> AUX port at <*>,<*> irq <*>",1
+125,"<*> KBD port at <*>,<*> irq <*>",1
+126,syslog-ng startup succeeded,1
+127,syslog-ng version <*> starting,1
+128,Detected <*> MHz processor.,1
+129,Using <*> MHz HPET timer.,1
+130,Using HPET based timekeeping.,1
+131,Creating Topspin <*> entries:,1
+132,registered new driver hiddev,1
+133,registered new driver hub,1
+134,registered new driver usbfs,1
+135,registered new driver usbhid,1
+136,probe of vesafb0 failed with error <*>,1
+137,Mounting NFS filesystems: succeeded,1
+138,Mounting other filesystems: failed,1
+139,Warning: we failed to resolve trusted host name <*>,1
+140,gmetad startup succeeded,1
+141,Server listening on :: port <*>.,1
+142,error: Bind to port <*> on <*> failed: Address already in use.,1
+143,Cannot open file <*> for writing (No such file or directory),1
+144,Changing permissions on special file <*>,1
+145,xinetd startup succeeded,1
+146,Started working: <*> available service,1
+147,xinetd Version <*> started with libwrap loadavg options compiled in.,1
+148,"Device: <*>, Temperature changed <*> Celsius to <*> Celsius since last report",1

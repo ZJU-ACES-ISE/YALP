@@ -1,0 +1,27 @@
+,EventTemplate,Occurrences
+0,Received disconnect from <*>: <*>: Bye Bye [preauth],413
+1,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>,384
+2,Failed password for <*> from <*> port <*> ssh2,383
+3,pam_unix(sshd:auth): check pass; user unknown,135
+4,Failed password for invalid user <*> from <*> port <*> ssh2,135
+5,Invalid user <*> from <*>,113
+6,input_userauth_request: invalid user <*> [preauth],113
+7,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>,110
+8,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+9,error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth],45
+10,Connection closed by <*> [preauth],34
+11,Did not receive identification string from <*>,10
+12,PAM service(sshd) ignoring max retries; <*> > <*>,7
+13,Received disconnect from <*>: <*>: Closed due to user request. [preauth],7
+14,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>,6
+15,Failed none for invalid user <*> from <*> port <*> ssh2,4
+16,Disconnecting: Too many authentication failures for <*> [preauth],3
+17,message repeated <*> times: [ Failed password for <*> from <*> port <*>],2
+18,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>,2
+19,error: Received disconnect from <*>: <*>: com.jcraft.jsch.JSchException: Auth fail [preauth],2
+20,PAM <*> more authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>,2
+21,Accepted password for <*> from <*> port <*> ssh2,1
+22,pam_unix(sshd:session): session opened for user <*> by (uid=<*>),1
+23,Received disconnect from <*>: <*>: disconnected by user,1
+24,pam_unix(sshd:session): session closed for user <*>,1
+25,fatal: Write failed: Connection reset by peer [preauth],1
